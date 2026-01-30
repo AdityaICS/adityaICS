@@ -99,30 +99,7 @@ My background in building scalable applications (Laravel, Django) gives me a uni
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaICS&show_icons=true&theme=minimal&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaICS&layout=compact&theme=minimal&hide_border=true" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaICS&theme=minimal&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdityaICS/AdityaICS/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaICS&theme=flat&no-frame=true&margin-w=4" />
-</div>
-
----
 
 ## 📬 Connect With Me
 
